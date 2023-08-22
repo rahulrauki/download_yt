@@ -2,7 +2,7 @@
 Parses a text to find valid youtube links and downloads them.
 
 ### Build
-Can you the script directly or can be converted to an executable using suitable tools
+Can use the script directly or can be converted to an executable using suitable tools
 
 ### Usage
 `py download_yt.py "C:\User\text.txt" 1 10` 
